@@ -10,7 +10,7 @@ for(i=1;i<=n;i++){
 s=s+i;
 }
 
-printf("bux tooni niilber ni:%d\t",s);
+printf("bux tooni niilber ni:%d\t",s); //testing
 
 
 }
